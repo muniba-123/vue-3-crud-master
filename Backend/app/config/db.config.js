@@ -1,7 +1,6 @@
 module.exports = {
   HOST: "localhost",
   USER: "root",
-  PASSWORD: "123",
   DB: "vue_crud",
   dialect: "mysql",
   pool: {
